@@ -1,0 +1,1 @@
+# Loss-Percentage-calculator
