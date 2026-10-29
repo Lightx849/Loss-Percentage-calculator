@@ -26,4 +26,4 @@ def loss_per():
 
 total_loss = loss_per()
 
-print(f"the total loss percentage is:{total_loss}")
+print(f"the total loss percentage is:{total_loss}%")
