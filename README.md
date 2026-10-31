@@ -1,4 +1,4 @@
-# Loss-Percentage-calculator
+# Compund-interest-calculator
 
 
 
